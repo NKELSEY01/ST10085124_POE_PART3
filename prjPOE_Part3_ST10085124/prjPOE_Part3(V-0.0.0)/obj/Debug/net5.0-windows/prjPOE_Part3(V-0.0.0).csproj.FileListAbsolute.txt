@@ -1,0 +1,44 @@
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).csproj.AssemblyReference.cache
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0)_MarkupCompile.cache
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0)_MarkupCompile.lref
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).exe
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).deps.json
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).runtimeconfig.json
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).runtimeconfig.dev.json
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\ref\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).pdb
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).g.resources
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).AssemblyInfoInputs.cache
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).AssemblyInfo.cs
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).csproj.CoreCompileInputs.cache
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\ref\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).pdb
+C:\Users\Stephan\source\repos\prjPOE_Part3(V-0.0.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).genruntimeconfig.cache
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).exe
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).deps.json
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).runtimeconfig.json
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).runtimeconfig.dev.json
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\ref\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\bin\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).pdb
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).csproj.AssemblyReference.cache
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0)_MarkupCompile.cache
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0)_MarkupCompile.lref
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).g.resources
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).AssemblyInfoInputs.cache
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).AssemblyInfo.cs
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).csproj.CoreCompileInputs.cache
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\ref\prjPOE_Part3(V-0.0.0).dll
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).pdb
+C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\obj\Debug\net5.0-windows\prjPOE_Part3(V-0.0.0).genruntimeconfig.cache

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = prjPOE_Part3_V_0._0._0_
+build_property.ProjectDir = C:\Users\Nicole Kelsey\Desktop\prjPOE_Part3(V-3.2.0)\prjPOE_Part3(V-0.0.0)\
